@@ -277,7 +277,7 @@ section .title::after{
 }
 /*  sessão Habilidades  */
 .skills .title::after{
-    content: "aaaaaaa";
+    content: "";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
