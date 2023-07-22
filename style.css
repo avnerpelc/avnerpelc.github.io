@@ -275,9 +275,9 @@ section .title::after{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
-/*  sessão especialidades  */
+/*  sessão Habilidades  */
 .skills .title::after{
-    content: "";
+    content: "aaaaaaa";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
